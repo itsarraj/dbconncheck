@@ -6,6 +6,12 @@ reach its database, instead of reaching for `psql`/`mysql`/`redis-cli`
 and remembering each one's own slightly different connection-testing
 incantation.
 
+## Installation
+
+```sh
+cargo install --path .
+```
+
 ## Usage
 
 ```bash
